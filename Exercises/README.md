@@ -1,3 +1,5 @@
 ## Exercises folder
 
-Inside this directory add data, scripts and results of exercises
+This directory contains scripts and data for the workshop.
+
+Solutions are part of the main scripts.
