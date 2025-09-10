@@ -372,10 +372,6 @@ tapply(measurements, samples, mean)
 
 #### Vector Operations
 
-```{r, echo=FALSE, out.width="80%",fig.align='center'}
-knitr::include_graphics("images/VectorOperations.png")
-```
-
 ```{r}
 x<-1:10
 y<-11:20

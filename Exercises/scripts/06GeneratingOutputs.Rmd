@@ -289,7 +289,7 @@ Use the `covid_testing` data set and everything you've learned so far to answer 
 ## 1.Lets start by looking at the clinics.
 
 ```{r}
-covid<-covid_testing
+covid <- medicaldata::covid_testing
 ```
 
 ### a) How many clinics participated in the study
