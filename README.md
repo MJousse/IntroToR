@@ -106,7 +106,7 @@ This section will show participants how to (1) Create basic plots using base R f
 │   └── IntroToR_CBHWorkshop.pptx
 └── Outline
     └── workshopoutline.pdf #using the template provided
-
+```
 
 ## References
 The materials for this workshop were based on the following sources:
